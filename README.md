@@ -32,6 +32,8 @@
 
   - npm install
 
+- Edit file **./config/db.config.example.js** with correct credentials and rename file to **db.config.js**
+
 - Run program by using following command
 
   - nodemon app.js
